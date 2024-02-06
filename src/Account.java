@@ -29,44 +29,7 @@ public class Account {
         }
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public double getBalance() {
-        return balance;
-    }
-
-    public void setBalance(double balance) {
-        this.balance = balance;
-    }
-
-    public String getNumber() {
-        return Number;
-    }
-
-    public void setNumber(String number) {
-        Number = number;
-    }
 
 
-    public String getEmail() {
-        return Email;
-    }
 
-    public void setEmail(String email) {
-        Email = email;
-    }
-
-    public String getPhoneNo() {
-        return phoneNo;
-    }
-
-    public void setPhoneNo(String phoneNo) {
-        this.phoneNo = phoneNo;
-    }
 }
